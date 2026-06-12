@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi 👋, I'm Tanishq Kale
 
-<!--
-**tanishqkale91-cmd/tanishqkale91-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+* 🎓 B.Tech Student
+* 💻 Passionate about Data Structures & Algorithms
+* 🐧 Linux and GNOME Customization Enthusiast
+* 🌱 Currently Learning JavaScript and Web Development
+* 🎯 Goal: Become a Strong Software Engineer with expertise in DSA and Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Achievements
+
+* 🔥 Solved **200+ DSA Problems**
+* ⭐ **CodeChef 2 Star**
+* 💡 Strong understanding of **Java OOP**
+* 🏆 Active Competitive Programmer
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+* C++
+* Java
+* JavaScript
+
+### Web Development
+
+* HTML
+* CSS
+* JavaScript
+
+### Concepts
+
+* Data Structures & Algorithms
+* Object-Oriented Programming (OOP)
+
+### Tools & Platforms
+
+* Linux
+* GNOME
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 📈 Current Focus
+
+* Solving More DSA Problems
+* Strengthening JavaScript Fundamentals
+* Building Web Development Projects
+* Learning React
+* Improving Competitive Programming Skills
+
+---
+
+## 🔗 Connect With Me
+
+* GitHub: https://github.com/tanishqkale91-cmd
+
+---
+
+### ⚡ Fun Fact
+
+I spend my time switching between solving LeetCode problems, customizing GNOME, breaking JavaScript code, and then pretending the bug was part of the learning process.
+

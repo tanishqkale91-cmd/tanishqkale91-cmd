@@ -60,7 +60,7 @@
 
 ## 🔗 Connect With Me
 
-* GitHub: https://github.com/tanishqkale91-cmd
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/Tann_ishq/)
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?logo=codechef)](https://www.codechef.com/users/tann_ishq)

@@ -61,7 +61,11 @@
 ## 🔗 Connect With Me
 
 * GitHub: https://github.com/tanishqkale91-cmd
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/Tann_ishq/)
 
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?logo=codechef)](https://www.codechef.com/users/tann_ishq)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/tanishqkale91-cmd)
 ---
 
 ### ⚡ Fun Fact
@@ -74,3 +78,8 @@ I spend my time switching between solving LeetCode problems, customizing GNOME, 
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![Linux](https://img.shields.io/badge/Linux-black)
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishqkale91-cmd&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqkale91-cmd&layout=compact&theme=tokyonight)

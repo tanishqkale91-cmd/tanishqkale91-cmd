@@ -67,4 +67,10 @@
 ### ⚡ Fun Fact
 
 I spend my time switching between solving LeetCode problems, customizing GNOME, breaking JavaScript code, and then pretending the bug was part of the learning process.
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishqkale91-cmd&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqkale91-cmd&layout=compact)
+![C++](https://img.shields.io/badge/C++-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![Linux](https://img.shields.io/badge/Linux-black)

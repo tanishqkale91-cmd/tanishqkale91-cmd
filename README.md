@@ -5,14 +5,14 @@
 * 🎓 B.Tech Student
 * 💻 Passionate about Data Structures & Algorithms
 * 🐧 Linux and GNOME Customization Enthusiast
-* 🌱 Currently Learning JavaScript and Web Development
+* 🌱 Currently Learning: React.js and building full stack projects
 * 🎯 Goal: Become a Strong Software Engineer with expertise in DSA and Full Stack Development
 
 ---
 
 ## 📊 Achievements
 
-* 🔥 Solved **200+ DSA Problems**
+* 🔥 Solved **170+ DSA Problems**
 * ⭐ **CodeChef 2 Star**
 * 💡 Strong understanding of **Java OOP**
 * 🏆 Active Competitive Programmer
@@ -32,7 +32,7 @@
 * HTML
 * CSS
 * JavaScript
-
+* React.JS
 ### Concepts
 
 * Data Structures & Algorithms
@@ -73,9 +73,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishqkale91-cmd&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqkale91-cmd&layout=compact&theme=tokyonight)
-![C++](https://img.shields.io/badge/C++-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![Linux](https://img.shields.io/badge/Linux-black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)

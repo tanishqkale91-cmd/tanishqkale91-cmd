@@ -12,7 +12,7 @@
 
 ## 📊 Achievements
 
-* 🔥 Solved **170+ DSA Problems**
+* 🔥 Solved **215+ DSA Problems**
 * ⭐ **CodeChef 2 Star**
 * 💡 Strong understanding of **Java OOP**
 * 🏆 Active Competitive Programmer

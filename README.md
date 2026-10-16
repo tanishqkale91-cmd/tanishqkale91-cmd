@@ -97,18 +97,40 @@ I'm a B.Tech student who loves turning ideas into clean, expressive, responsive 
 
 ## 🚀 Featured Project
 
-<!-- Edit this block with your real details before submitting. Add the repo and demo links. -->
+### 🧵 ThreadHub: Community Discussion Platform
 
-### 🌦️ WeatherGPT
-**Conversational AI weather platform** built for **Smart India Hackathon 2026**.
+A **Reddit-inspired community platform** where users create accounts, sign in securely, create and discover communities, and join or leave them. Built as part of the **Geektoberfest** open source project.
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite_8-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java_25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+
+</div>
 
 | | |
 |---|---|
-| **Status** | 🚧 In development |
-| **Idea** | Ask about the weather in plain language and get clear, useful answers |
-| **Frontend** | React, Vite, Tailwind CSS, Framer Motion |
-| **Repo** | _add link_ |
-| **Demo** | _add link_ |
+| **Status** | ✅ Deployed |
+| **Features** | User registration and login, JWT-secured API, create and discover communities, join and leave, membership management |
+| **Frontend** | React 19, Vite 8, Tailwind CSS v4, React Router v7 |
+| **Backend** | Spring Boot, Spring Security + JWT, Spring Data JPA |
+| **Database** | PostgreSQL (Neon in production) |
+| **Hosting** | Vercel (frontend), Railway (backend) |
+| **CI** | GitHub Actions |
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishqkale91-cmd/Geektoberfest-threadhub)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-d96c9c?style=for-the-badge&logo=vercel&logoColor=white)](https://threadhub-silk.vercel.app)
+[![API](https://img.shields.io/badge/Backend_API-7153c7?style=for-the-badge&logo=railway&logoColor=white)](https://threadhub-production.up.railway.app)
+
+<sub>Forked from [Geektoberfest/Geektoberfest-threadhub](https://github.com/Geektoberfest/Geektoberfest-threadhub).</sub>
 
 ---
 

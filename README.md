@@ -156,7 +156,7 @@ I'm open to collaborations, hackathon teams, and learning opportunities.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishqkale91-cmd)
-[![Portfolio](https://img.shields.io/badge/Portfolio-d96c9c?style=for-the-badge&logo=vercel&logoColor=white)](https://tanishqkale91-cmd.github.io/Porfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-d96c9c?style=for-the-badge&logo=vercel&logoColor=white)](https://tanishq-kale.vercel.app/)
 
 <br/>
 
